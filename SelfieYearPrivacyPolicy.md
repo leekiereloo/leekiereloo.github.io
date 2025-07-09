@@ -52,4 +52,4 @@ We may update this Privacy Policy from time to time. If we make significant chan
 
 ## 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: leekiereloo@gmail.com
+If you have any questions or concerns about this Privacy Policy, please contact us at: feedback.leekiereloo@gmail.com
