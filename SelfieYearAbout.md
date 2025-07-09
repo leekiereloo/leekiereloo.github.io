@@ -4,6 +4,17 @@ Create stunning timelapse videos from your daily selfies, all privately on your 
 
 SelfieYear is a simple yet powerful iOS application that allows you to organize your selfies into albums and generate beautiful, face-aligned timelapse videos. The app is designed with privacy as its core principle—all processing happens directly on your iPhone or iPad, and your photos never leave your device.
 
+## 💬 Support & Feedback
+
+If you encounter any bugs, have a feature request, or want to provide feedback, please feel free to write to [leekiereloo@gmail.com](mailto:leekiereloo@gmail.com) or open an issue on this repository.
+
+Providing the following information will help resolve issues faster:
+
+-   Your device model (e.g., iPhone 15 Pro)
+-   iOS version (e.g., iOS 18.0)
+-   A detailed description of the issue.
+-   Screenshots or screen recordings, if applicable.
+
 ## ✨ Features
 
 -   **Album Management:** Create and manage multiple albums for different projects or years.
@@ -25,17 +36,6 @@ SelfieYear is a simple yet powerful iOS application that allows you to organize 
 The app is available on the App Store.
 
 [Link to App Store Coming Soon!]
-
-## 💬 Support & Feedback
-
-If you encounter any bugs, have a feature request, or want to provide feedback, please feel free to write to [leekiereloo@gmail.com](mailto:leekiereloo@gmail.com) or open an issue on this repository.
-
-Providing the following information will help resolve issues faster:
-
--   Your device model (e.g., iPhone 15 Pro)
--   iOS version (e.g., iOS 18.0)
--   A detailed description of the issue.
--   Screenshots or screen recordings, if applicable.
 
 ## 📄 License
 
