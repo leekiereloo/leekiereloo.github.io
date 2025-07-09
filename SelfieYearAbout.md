@@ -6,7 +6,7 @@ SelfieYear is a simple yet powerful iOS application that allows you to organize 
 
 ## 💬 Support & Feedback
 
-If you encounter any bugs, have a feature request, or want to provide feedback, please feel free to write to [feedback.leekiereloo@gmail.com](mailto:feedback.leekiereloo@gmail.com) or open an issue on this repository.
+If you encounter any bugs, have a feature request, or want to provide feedback, please feel free to write to [feedback.leekiereloo@gmail.com](mailto:feedback.leekiereloo@gmail.com).
 
 Providing the following information will help resolve issues faster:
 
