@@ -50,4 +50,4 @@ These Terms shall be governed and construed in accordance with the laws of Canad
 
 ## 10. Contact Us
 
-If you have any questions about these Terms, please contact us at leekiereloo@gmail.com.
+If you have any questions about these Terms, please contact us at feedback.leekiereloo@gmail.com.
