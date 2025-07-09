@@ -14,7 +14,7 @@ The fundamental principle of SelfieYear is that **all of your data is processed 
 
 ## 2. Information We Do Not Collect
 
-To be perfectly clear, we do **not** collect, access, or have the ability to see any of the following:
+To be perfectly clear, we do **not** collect, access, or have the ability to see any of the following: 
 *   The photos you import into the App.
 *   The albums you create.
 *   The videos you generate.
