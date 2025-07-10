@@ -1,6 +1,6 @@
 # Privacy Policy for SelfieYear
 
-**Last Updated: July 5, 2025**
+**Last Updated: July 10, 2025**
 
 This Privacy Policy describes how your personal information is handled in the SelfieYear mobile application (the "App"). Your privacy is critically important to us, and the App has been designed from the ground up to be a private and secure experience.
 
