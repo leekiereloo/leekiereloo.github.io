@@ -8,39 +8,9 @@
 
 1000 Rejections helps you embrace rejection as a path to success. Track your asks, celebrate your rejections, and watch your courage grow.
 
-**The core insight:** If you're not getting rejected, you're not asking for enough.
-
----
-
-## How It Works
-
-1. **Log an Ask** — Record what you asked for
-2. **Track the Outcome** — Mark it as Rejected or Win
-3. **Reflect & Learn** — Capture insights from each rejection
-4. **Reach 1000** — Build resilience one "no" at a time
-
----
-
-## Features
-
-- 📊 Track your rejection progress
-- 🔥 Maintain daily asking streaks
-- 💭 Record reflections on rejections
-- 📁 Organize asks by category
-- ⏰ Set daily reminders
-- 📤 Export your data
-
----
-
 ## Version
 
 **Version:** 1.0.0
-
----
-
-## Developer
-
-**Anastasiia Bespalova**
 
 ---
 
