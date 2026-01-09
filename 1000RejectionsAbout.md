@@ -34,8 +34,6 @@
 
 ## Version
 
-<!-- UPDATE WITH EACH RELEASE -->
-
 **Version:** 1.0.0
 
 ---
