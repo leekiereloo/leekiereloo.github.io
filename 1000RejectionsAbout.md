@@ -54,8 +54,8 @@ Questions, feedback, or suggestions? We'd love to hear from you.
 
 ## Legal
 
-- [Privacy Policy](PRIVACY_POLICY.md)
-- [Terms of Use](TERMS_OF_USE.md)
+- [Privacy Policy](https://leekiereloo.github.io/1000RejectionsPrivacyPolicy.html)
+- [Terms of Use](https://leekiereloo.github.io/1000RejectionsTermsOfUse.html)
 
 ---
 
